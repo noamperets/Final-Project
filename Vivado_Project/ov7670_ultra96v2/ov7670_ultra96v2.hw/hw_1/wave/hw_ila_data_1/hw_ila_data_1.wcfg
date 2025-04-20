@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="C:/Users/Admin/camera_vga/camera_vga.hw/hw_1/wave/hw_ila_data_1/hw_ila_data_1.wdb" id="1">
+         <top_modules>
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="458"></ZoomStartTime>
+      <ZoomEndTime time="474"></ZoomEndTime>
+      <Cursor1Time time="505"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="533"></NameColumnWidth>
+      <ValueColumnWidth column_width="203"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="14" />
+   <wave_markers>
+   </wave_markers>
+   <wvobject fp_name="design_1_i/system_ila_0/inst/probe1_1" type="logic">
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="ElementShortName">design_1_i/system_ila_0/inst/probe1_1</obj_property>
+      <obj_property name="ObjectShortName">probe1_1</obj_property>
+      <obj_property name="label">zynq_ultra_ps_e_0_pl_resetn0</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="design_1_i/system_ila_0/inst/probe2_1" type="logic">
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="ElementShortName">design_1_i/system_ila_0/inst/probe2_1</obj_property>
+      <obj_property name="ObjectShortName">probe2_1</obj_property>
+      <obj_property name="label">Net</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="design_1_i/system_ila_0/inst/probe14_1" type="logic">
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="ElementShortName">design_1_i/system_ila_0/inst/probe14_1</obj_property>
+      <obj_property name="ObjectShortName">probe14_1</obj_property>
+      <obj_property name="label">ov7670_controller_0_xclk</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="design_1_i/system_ila_0/inst/probe3_1" type="logic">
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="ElementShortName">design_1_i/system_ila_0/inst/probe3_1</obj_property>
+      <obj_property name="ObjectShortName">probe3_1</obj_property>
+      <obj_property name="label">ov7670_vsync_1</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="design_1_i/system_ila_0/inst/probe4_1" type="logic">
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="ElementShortName">design_1_i/system_ila_0/inst/probe4_1</obj_property>
+      <obj_property name="ObjectShortName">probe4_1</obj_property>
+      <obj_property name="label">ov7670_href_1</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="design_1_i/system_ila_0/inst/probe6_1" type="array">
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="ElementShortName">design_1_i/system_ila_0/inst/probe6_1[18:0]</obj_property>
+      <obj_property name="ObjectShortName">probe6_1[18:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="label">ov7670_capture_0_addr</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="design_1_i/system_ila_0/inst/probe0_1" type="array">
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="ElementShortName">design_1_i/system_ila_0/inst/probe0_1[7:0]</obj_property>
+      <obj_property name="ObjectShortName">probe0_1[7:0]</obj_property>
+      <obj_property name="label">ov7670_d_1</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="design_1_i/system_ila_0/inst/probe7_1" type="array">
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="ElementShortName">design_1_i/system_ila_0/inst/probe7_1[15:0]</obj_property>
+      <obj_property name="ObjectShortName">probe7_1[15:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+      <obj_property name="label">ov7670_capture_0_dout</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="design_1_i/system_ila_0/inst/probe8_1" type="logic">
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="ElementShortName">design_1_i/system_ila_0/inst/probe8_1</obj_property>
+      <obj_property name="ObjectShortName">probe8_1</obj_property>
+      <obj_property name="label">ov7670_capture_0_we</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="design_1_i/system_ila_0/inst/probe9_1" type="logic">
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="ElementShortName">design_1_i/system_ila_0/inst/probe9_1</obj_property>
+      <obj_property name="ObjectShortName">probe9_1</obj_property>
+      <obj_property name="label">ov7670_controller_0_config_finished</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="design_1_i/system_ila_0/inst/probe10_1" type="logic">
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="ElementShortName">design_1_i/system_ila_0/inst/probe10_1</obj_property>
+      <obj_property name="ObjectShortName">probe10_1</obj_property>
+      <obj_property name="label">ov7670_controller_0_sioc</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="design_1_i/system_ila_0/inst/probe5_1" type="logic">
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="ElementShortName">design_1_i/system_ila_0/inst/probe5_1</obj_property>
+      <obj_property name="ObjectShortName">probe5_1</obj_property>
+      <obj_property name="label">ClockDivider_0_out_sig</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="design_1_i/system_ila_0/inst/probe12_1" type="logic">
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="ElementShortName">design_1_i/system_ila_0/inst/probe12_1</obj_property>
+      <obj_property name="ObjectShortName">probe12_1</obj_property>
+      <obj_property name="label">ov7670_controller_0_reset</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+   <wvobject fp_name="design_1_i/system_ila_0/inst/probe13_1" type="logic">
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="ElementShortName">design_1_i/system_ila_0/inst/probe13_1</obj_property>
+      <obj_property name="ObjectShortName">probe13_1</obj_property>
+      <obj_property name="label">ov_pwdn_out</obj_property>
+      <obj_property name="LABELRADIX">true</obj_property>
+      <obj_property name="WaveformStyle">STYLE_DIGITAL</obj_property>
+   </wvobject>
+</wave_config>

@@ -1,0 +1,16 @@
+verilog xil_defaultlib --include "C:/Xilinx/Vivado/2022.2/data/xilinx_vip/include" --include "../../../../camera_vga.gen/sources_1/bd/design_1/ipshared/ec67/hdl" --include "../../../../camera_vga.gen/sources_1/bd/design_1/ipshared/abef/hdl" --include "../../../../camera_vga.gen/sources_1/bd/design_1/ipshared/1b7e/hdl/verilog" --include "../../../../camera_vga.gen/sources_1/bd/design_1/ipshared/122e/hdl/verilog" --include "../../../../camera_vga.gen/sources_1/bd/design_1/ipshared/b205/hdl/verilog" --include "../../../../camera_vga.gen/sources_1/bd/design_1/ipshared/fd26/hdl/verilog" \
+"../../../bd/design_1/ip/design_1_zynq_ultra_ps_e_0_0/sim/design_1_zynq_ultra_ps_e_0_0_vip_wrapper.v" \
+"../../../bd/design_1/ip/design_1_xbar_0/sim/design_1_xbar_0.v" \
+"../../../bd/design_1/ip/design_1_blk_mem_gen_0_1/sim/design_1_blk_mem_gen_0_1.v" \
+"../../../bd/design_1/ip/design_1_ClockDivider_0_0/sim/design_1_ClockDivider_0_0.v" \
+"../../../bd/design_1/ip/design_1_ov7670_controller_0_0/sim/design_1_ov7670_controller_0_0.v" \
+"../../../bd/design_1/ip/design_1_ov7670_capture_0_0/sim/design_1_ov7670_capture_0_0.v" \
+"../../../bd/design_1/ip/design_1_system_ila_0_0/bd_0/ip/ip_0/sim/bd_f60c_ila_lib_0.v" \
+"../../../bd/design_1/ip/design_1_system_ila_0_0/bd_0/sim/bd_f60c.v" \
+"../../../bd/design_1/ip/design_1_system_ila_0_0/sim/design_1_system_ila_0_0.v" \
+"../../../bd/design_1/ip/design_1_auto_ds_0/sim/design_1_auto_ds_0.v" \
+"../../../bd/design_1/sim/design_1.v" \
+
+verilog xil_defaultlib "glbl.v"
+
+nosort

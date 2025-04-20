@@ -1,0 +1,56 @@
+{
+   "ActiveEmotionalView":"Default View",
+   "Default View_ScaleFactor":"0.894516",
+   "Default View_TopLeft":"-361,-291",
+   "ExpandedHierarchyInLayout":"",
+   "guistr":"# # String gsaved with Nlview 7.0r6  2020-01-29 bk=1.5227 VDI=41 GEI=36 GUI=JA:10.0 non-TLS
+#  -string -flagsOSRD
+preplace port port-id_ov7670_pclk -pg 1 -lvl 0 -x -350 -y 180 -defaultsOSRD
+preplace port port-id_ov7670_vsync -pg 1 -lvl 0 -x -350 -y 230 -defaultsOSRD
+preplace port port-id_ov7670_href -pg 1 -lvl 0 -x -350 -y 290 -defaultsOSRD
+preplace port port-id_led_config_finished -pg 1 -lvl 4 -x 1970 -y 600 -defaultsOSRD
+preplace port port-id_ov7670_sioc -pg 1 -lvl 4 -x 1970 -y 480 -defaultsOSRD
+preplace port port-id_ov7670_reset -pg 1 -lvl 4 -x 1970 -y 540 -defaultsOSRD
+preplace port port-id_ov7670_pwdn -pg 1 -lvl 4 -x 1970 -y 570 -defaultsOSRD
+preplace port port-id_ov7670_xclk -pg 1 -lvl 4 -x 1970 -y 630 -defaultsOSRD
+preplace port port-id_ov7670_siod -pg 1 -lvl 4 -x 1970 -y 510 -defaultsOSRD
+preplace portBus ov7670_d -pg 1 -lvl 0 -x -350 -y 360 -defaultsOSRD
+preplace inst zynq_ultra_ps_e_0 -pg 1 -lvl 1 -x 307 -y 516 -defaultsOSRD
+preplace inst axi_interconnect_0 -pg 1 -lvl 3 -x 1459 -y 0 -defaultsOSRD
+preplace inst axi_bram_ctrl_0 -pg 1 -lvl 3 -x 1459 -y 290 -defaultsOSRD
+preplace inst rst_ps8_0_100M -pg 1 -lvl 2 -x 1062 -y 30 -defaultsOSRD
+preplace inst blk_mem_gen_0 -pg 1 -lvl 3 -x 1459 -y 490 -defaultsOSRD
+preplace inst ClockDivider_0 -pg 1 -lvl 2 -x 1062 -y 810 -defaultsOSRD
+preplace inst system_ila_0 -pg 1 -lvl 2 -x 1062 -y 560 -defaultsOSRD
+preplace inst ov7670_controller_0 -pg 1 -lvl 3 -x 1459 -y 770 -defaultsOSRD
+preplace inst ov7670_capture_0 -pg 1 -lvl 2 -x 1062 -y 280 -defaultsOSRD
+preplace netloc ClockDivider_0_out_sig 1 1 2 650 910 1310
+preplace netloc Net 1 0 3 N 180 650 180 1280
+preplace netloc Net1 1 3 1 1610 510n
+preplace netloc ov7670_capture_0_addr 1 1 2 720 190 1270
+preplace netloc ov7670_capture_0_dout 1 1 2 660 920 1260
+preplace netloc ov7670_capture_0_we 1 1 2 700 870 1240J
+preplace netloc ov7670_controller_0_config_finished 1 1 3 710 880 1270 640 1620
+preplace netloc ov7670_controller_0_pwdn 1 1 3 670 930 N 930 1640
+preplace netloc ov7670_controller_0_reset 1 1 3 720 890 1280 650 1630
+preplace netloc ov7670_controller_0_sioc 1 1 3 690 900 1300 660 1600
+preplace netloc ov7670_controller_0_xclk 1 1 3 680 940 N 940 1650
+preplace netloc ov7670_d_1 1 0 2 N 360 710
+preplace netloc ov7670_href_1 1 0 2 NJ 290 630
+preplace netloc ov7670_vsync_1 1 0 2 NJ 230 620
+preplace netloc rst_ps8_0_100M_peripheral_aresetn 1 2 1 1250 -30n
+preplace netloc zynq_ultra_ps_e_0_pl_clk0 1 0 3 -310 606 640 -70 1290
+preplace netloc zynq_ultra_ps_e_0_pl_resetn0 1 1 1 610 10n
+preplace netloc S00_AXI_1 1 1 2 600 -90 N
+preplace netloc axi_bram_ctrl_0_BRAM_PORTA 1 2 2 1310 210 1600
+preplace netloc axi_interconnect_0_M00_AXI 1 2 2 1300 150 1600
+levelinfo -pg 1 -350 307 1062 1459 1970
+pagesize -pg 1 -db -bbox -sgen -490 -760 2140 1740
+"
+}
+{
+   "da_axi4_cnt":"1",
+   "da_board_cnt":"1",
+   "da_clkrst_cnt":"13",
+   "da_zynq_ultra_ps_e_cnt":"1"
+}

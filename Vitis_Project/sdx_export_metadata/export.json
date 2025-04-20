@@ -1,0 +1,29 @@
+{
+  "version": "2022.2",
+  "applications": [],
+  "platforms": [
+    {
+      "name": "basic_camera"
+    }
+  ],
+  "systems": [
+    {
+      "name": "Hello_Ultra96_system",
+      "platform": "C:/Users/Admin/basic_camera/basic_camera/export/basic_camera/basic_camera.xpfm",
+      "sysConfig": "basic_camera",
+      "buildConfig": "Debug",
+      "applications": [
+        {
+          "name": "Hello_Ultra96",
+          "platform": "C:/Users/Admin/basic_camera/basic_camera/export/basic_camera/basic_camera.xpfm",
+          "platformPath": "C:\\Users\\Admin\\basic_camera\\basic_camera\\export\\basic_camera",
+          "sysConfig": "basic_camera",
+          "domain": "standalone_domain",
+          "system": "Hello_Ultra96_system"
+        }
+      ],
+      "platformPath": "C:\\Users\\Admin\\basic_camera\\basic_camera\\export\\basic_camera"
+    }
+  ],
+  "others": []
+}
